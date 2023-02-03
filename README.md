@@ -24,8 +24,8 @@ How to use the program
 Once the user installs python and downloads the text file mentioned above, we need to open the text file. Python provides a built-in function for reading/opening files.
 
 *Make sure you insert the correct file path in X as shown below*
-with open (“X/Students.txt”, “r”)  Draft
-with open(“/Users/ioannaprotopapadaki/Downloads/Students.txt”, “r”)  Example
+with open (“X/Students.txt”, “r”) #Draft
+with open(“/Users/ioannaprotopapadaki/Downloads/Students.txt”, “r”) #Example
 
 The program is created to let the user select what student report they need to search for. If by mistake, they open the program or do not need any further analysis, a fifth option has been added for terminating the program.
 
